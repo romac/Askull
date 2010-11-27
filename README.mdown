@@ -2,7 +2,7 @@
 Askull
 ======
 
-Askull does what its name tells: it converts any file containing ASCII characters into some [EOS-SKL](https://github.com/macmade/EOS-SKL) macros.
+Askull is an ASCII to [EOS-SKL](https://github.com/macmade/EOS-SKL) macros converter.
 
 Disclaimer
 ----------
