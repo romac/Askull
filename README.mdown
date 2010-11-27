@@ -1,4 +1,25 @@
 
+
+                                    .oXXXXXXXXXXXXXXXXXXo.
+                                 .oXXXXX/XXXXXXXX\XXXXXXXo.
+                                /XXXXXX-\XXXXXXXX/-XXXXXXXx\
+                               dXXXXXX/XX\XXXXXX/XX\XXXXXXXXb
+                              XXXXXXXXXXXX\XXXX/XXXXXXXXXXXXX   
+                              XXX'~   ~`OO8bXXXd8OO'~  ~`XXXXX
+                              9XX'        `98v8P'         `XXP' 
+                               9X.        .db|db.         .XP
+                                )b. .dbo.dP'`v'`9b.odb. .dX(
+                              ,dXXXXXXXXXXb     dXXXXXXXXXXb.
+                             dXXXXXXXXXXP'   .   `9XXXXXXXXXXb
+                            dXXXXXXXXXXXb   d|b   dXXXXXXXXXXXb
+                            9XXb'  `XXXXXb.dX|Xb.dXXXXX'  `dXXP
+                             `'     9XXXXXX(   )XXXXXXP     `'
+                                     XXXX X.`N'.X XXXX
+                                     XP^X'`O   0'`X^XX
+                                     X. R  `   '  9 )X
+                                     `K  `       '  7'
+                                      `             '
+
 Askull
 ======
 
@@ -44,3 +65,8 @@ License
 
 Copyright (c) 2010, Romain Ruetschi <romain.ruetschi@gmail.com>  
 Distributed under the Boost Software License, Version 1.0.
+
+ASCII art
+---------
+
+Skull ASCII art by Benny Soo (Krono) <encari@juno.com>
