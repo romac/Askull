@@ -72,7 +72,7 @@ static char * error = NULL;
     fputs( error, stderr ); \
     exit( EXIT_FAILURE );
 
-#ifndef ASCII2SKL_NO_DEBUG 
+#if defined( ASCII2SKL_ENABLE_DEBUG ) && ASCII2SKL_ENABLE_DEBUG
 
 /*!
  * @define      ASCII2SKL_DEBUG

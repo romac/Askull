@@ -38,8 +38,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-/* Disable ASCII2SKL debugging */
-#define ASCII2SKL_NO_DEBUG
+/* Enable/disable ASCII2SKL debugging */
+#define ASCII2SKL_ENABLE_DEBUG 1
 
 /* ASCII2SKL includes */
 #include "ascii2skl.h"
