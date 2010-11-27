@@ -1,0 +1,46 @@
+
+ASCII2SKL
+=========
+
+ASCII2SKL does what its name tells: it converts any file containing ASCII characters into some [EOS-SKL](https://github.com/macmade/EOS-SKL) macros.
+
+Disclaimer
+----------
+
+The code is heavily optimizable, surely leaking a lot and everything but elegant, I apologize for the tears the consultation of this source code can induce.
+
+1. Compiling
+------------
+
+From a terminal prompt, simply type:
+
+    make
+
+2. Installation
+---------------
+
+To install the ascii2skl binary into `/usr/local/bin` type the following command from a terminal prompt:
+
+    sudo make install
+
+Feel free to modify the configuration directives under the 'Installation paths' header in `makefile-config.mk`.
+
+3. Usage
+--------
+
+This command will output the generated macros on `stdout`:
+
+    ascii2skl file.txt
+
+Magic Makefile
+--------------
+
+The amazing Magic Makefile used by this project has been written by [Jean-David Gadina](mailto:macmade@eosgarden.com).  
+The source code is released under the BSD license and can be found on [Google Code](http://code.google.com/p/magic-makefile/).  
+The official home page of the project is on the [eosgarden website](http://www.eosgarden.com/en/opensource/magic-makefile/).
+
+License
+-------
+
+Copyright (c) 2010, Romain Ruetschi <romain.ruetschi@gmail.com>  
+Distributed under the Boost Software License, Version 1.0.
