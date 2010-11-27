@@ -69,7 +69,7 @@ EXEC                = ascii2skl
 # Dependancies for the executables (objects)
 #-------------------------------------------------------------------------------
 
-DEPS_main           = ascii2skl.o
+DEPS_main           = 
 
 #-------------------------------------------------------------------------------
 # Dependancies for the executables (libraries)
