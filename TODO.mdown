@@ -4,6 +4,6 @@ TODO
 
  * Read from `stdin`.
  * Get rid of `static char skl[ 20 ];`
- * Use `fread()` instead of the inefficient `fgetc()`.
+ * Use `fread()` instead of the inefficient `getc()`.
  * Make the outputed macros prefix configurable.
  * Add support for the ARM instructions set.

@@ -63,7 +63,7 @@ lang                = en
 # Final executables
 #-------------------------------------------------------------------------------
 
-EXEC                = ascii2skl
+EXEC                = askull
 
 #-------------------------------------------------------------------------------
 # Dependancies for the executables (objects)

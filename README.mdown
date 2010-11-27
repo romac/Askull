@@ -1,8 +1,8 @@
 
-ASCII2SKL
-=========
+Askull
+======
 
-ASCII2SKL does what its name tells: it converts any file containing ASCII characters into some [EOS-SKL](https://github.com/macmade/EOS-SKL) macros.
+Askull does what its name tells: it converts any file containing ASCII characters into some [EOS-SKL](https://github.com/macmade/EOS-SKL) macros.
 
 Disclaimer
 ----------
@@ -19,7 +19,7 @@ From a terminal prompt, simply type:
 2. Installation
 ---------------
 
-To install the ascii2skl binary into `/usr/local/bin` type the following command from a terminal prompt:
+To install the askull binary into `/usr/local/bin` type the following command from a terminal prompt:
 
     sudo make install
 
@@ -30,7 +30,7 @@ Feel free to modify the configuration directives under the 'Installation paths' 
 
 This command will output the generated macros on `stdout`:
 
-    ascii2skl file.txt
+    askull file.txt
 
 Magic Makefile
 --------------
