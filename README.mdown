@@ -21,7 +21,7 @@ Askull
                                                      `K  `       '  7'
                                                       `             '
 
-Askull is an ASCII to [EOS-SKL](http://code.google.com/p/eos-skl/) converter.
+Askull is an ASCII to [EOS-SKL](https://github.com/macmade/EOS-SKL) converter.
 
 Disclaimer
 ----------
@@ -55,13 +55,13 @@ Magic Makefile
 --------------
 
 EOS-SKL and the amazing Magic Makefile used by this project has been written by [Jean-David Gadina](http://www.eosgarden.com).  
-The source code is released under the BSD license and can be found on [Google Code](http://code.google.com/p/magic-makefile/).  
+The source code is released under the BSD license and can be found on [GitHub](https://github.com/macmade/Magic-MakeFile).  
 The official home page of the project is on the [eosgarden website](http://www.eosgarden.com/en/opensource/magic-makefile/).
 
 License
 -------
 
-Copyright (c) 2010, Romain Ruetschi <romain.ruetschi@gmail.com>  
+Copyright (c) 2011, Romain Ruetschi <romain.ruetschi@gmail.com>  
 Distributed under the Boost Software License, Version 1.0.
 
 ASCII art
